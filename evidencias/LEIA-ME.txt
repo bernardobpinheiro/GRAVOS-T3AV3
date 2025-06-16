@@ -1,0 +1,9 @@
+Depois de submeter a solução no CSES e receber Accepted, salve aqui a evidência como:
+
+accepted.png
+
+ou
+
+accepted.pdf
+
+O enunciado pede uma evidência clara do resultado Accepted no repositório.
